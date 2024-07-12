@@ -1,7 +1,7 @@
 Hi there 👋 I'm Andrey.
 
 ## Languages and Tools
-<img src="/images/C_Logo.png" width="50" height="50">
+<img src="/images/C_Logo.png" width="50">
 
 
 
