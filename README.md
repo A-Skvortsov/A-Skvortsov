@@ -2,6 +2,9 @@ Hi there 👋 I'm Andrey.
 
 ## Languages and Tools
 
+<img src="/C_Logo.png" width="10" height="10">
+
+
 
 
 
