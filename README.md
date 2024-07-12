@@ -2,7 +2,8 @@ Hi there 👋 I'm Andrey.
 
 ## Languages and Tools
 
-![C_Logo](https://github.com/user-attachments/assets/2d5e9836-4a77-4e45-9ef1-b7de3fb8ad05)
+<img src="/C_Logo.png" width="10" height="10">
+
 
 
 <!--
