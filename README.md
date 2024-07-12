@@ -1,9 +1,7 @@
 Hi there 👋 I'm Andrey.
 
 ## Languages and Tools
-<img src="/images/C_Logo.png" width="40"> <img src="/images/python-original.svg" width="40"> <img src="/images/Java_programming_language_logo.svg" width="40">
-
-<img src="/images/css3-plain-wordmark.svg" width="40"> <img src="/images/html5-original.svg" width="40"> <img src="/images/javascript-original.svg" width="40">
+<img src="/images/C_Logo.png" width="40"> <img src="/images/python-original.svg" width="40"> <img src="/images/Java_programming_language_logo.svg" width="40">     <img src="/images/css3-plain-wordmark.svg" width="40"> <img src="/images/html5-original.svg" width="40"> <img src="/images/javascript-original.svg" width="40">
 
 
 
